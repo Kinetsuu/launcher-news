@@ -9,25 +9,22 @@
     },
     {
         "title": "Vêtements",
-        "content": "change ton skin dans les paramètre !"
-    }
+        "content": "Change ton skin dans les paramètres !"
+    },
     {
         "title": "Un bug ?",
-        "content": "Si tu constate un bug, fait moi en parts sur discord ! "
-    }
-  
+        "content": "Si tu constates un bug, fais-moi en part sur Discord !"
+    },
     {
-        "title": "Youtube ",
-        "content": "J'ai une chaine youtube que tu peux visiter ! https://www.youtube.com/@kinetsutv5658 "
-    }
-
+        "title": "Youtube",
+        "content": "J'ai une chaîne Youtube que tu peux visiter ! https://www.youtube.com/@kinetsutv5658"
+    },
     {
-        "title": "twitch ",
-        "content": "J'ai égelement une chaine twitch que tu peux visiter ! https://www.twitch.tv/kinetsuu_ "
-    }
-
+        "title": "Twitch",
+        "content": "J'ai également une chaîne Twitch que tu peux visiter ! https://www.twitch.tv/kinetsuu_"
+    },
     {
-        "title": "Launcher en développement ",
-        "content": "Le launcher est toujours en développement donc de nouvelle fonctionnalités seront ajouté ! "
+        "title": "Launcher en développement",
+        "content": "Le launcher est toujours en développement donc de nouvelles fonctionnalités seront ajoutées !"
     }
 ]

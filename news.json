@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Bienvenue !",
+        "content": "Le nouveau launcher MyFortune est enfin disponible."
+    },
+    {
+        "title": "Maintenance",
+        "content": "Le serveur est toujours en développement."
+    },
+    {
+        "title": "Vêtements",
+        "content": "change ton skin dans les paramètre !"
+    }
+    {
+        "title": "Un bug ?",
+        "content": "Si tu constate un bug, fait moi en parts sur discord ! "
+    }
+  
+    {
+        "title": "Youtube ",
+        "content": "J'ai une chaine youtube que tu peux visiter ! https://www.youtube.com/@kinetsutv5658 "
+    }
+
+    {
+        "title": "twitch ",
+        "content": "J'ai égelement une chaine twitch que tu peux visiter ! https://www.twitch.tv/kinetsuu_ "
+    }
+
+    {
+        "title": "Launcher en développement ",
+        "content": "Le launcher est toujours en développement donc de nouvelle fonctionnalités seront ajouté ! "
+    }
+]

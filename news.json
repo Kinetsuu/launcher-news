@@ -1,30 +1,30 @@
 [
     {
-        "title": "Bienvenue !",
-        "content": "Le nouveau launcher Nexora est enfin disponible."
+        "title": "Lancement officiel",
+        "content": "Le nouveau launcher Nexora est officiellement disponible. Préparez-vous à rejoindre l'aventure !"
     },
     {
-        "title": "Faction",
-        "content": "Pour créer votre Faction faites /faction ou /f create."
+        "title": "Création de Faction",
+        "content": "Rassemblez vos alliés et fondez votre empire. Utilisez simplement la commande /faction ou /f create en jeu pour commencer."
     },
     {
-        "title": "Metiers",
-        "content": "4 metiers sont actuellement disponible sur le serveur"
+        "title": "Système de Métiers",
+        "content": "Choisissez votre voie pour vous enrichir : 4 métiers différents sont actuellement disponibles sur le serveur pour faire grimper votre fortune."
     },
     {
-        "title": "Market",
-        "content": "Vous avez la possibilité de vendre des items en faisant /market"
+        "title": "Market entre joueurs",
+        "content": "Faites des affaires et développez votre économie. Vous avez la possibilité de vendre ou d'acheter des items aux autres joueurs grâce à la commande /market."
     },
     {
-        "title": "Shop",
-        "content": "Vous manquez de resources . faite /shop"
+        "title": "Shop du Serveur",
+        "content": "Vous êtes à court de ressources pour avancer ? Réapprovisionnez-vous rapidement et facilement en effectuant la commande /shop."
     },
     {
         "title": "Twitch",
-        "content": "Marre de mourrir en minant ? faites /tpw "
+        "content": "Marre de mourir bêtement en minant et de perdre votre inventaire ? Utilisez la commande /tpw pour miner de manière beaucoup plus sereine !"
     },
     {
-        "title": "Launcher en développement",
-        "content": "Le launcher est toujours en développement donc de nouvelles fonctionnalités seront ajoutées !"
+        "title": "Mises à jour à venir",
+        "content": "Le launcher est en constante évolution. Restez à l'affût, de nombreuses nouvelles fonctionnalités et améliorations seront ajoutées prochainement !"
     }
 ]

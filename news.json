@@ -1,27 +1,27 @@
 [
     {
         "title": "Bienvenue !",
-        "content": "Le nouveau launcher MyFortune est enfin disponible."
+        "content": "Le nouveau launcher Nexora est enfin disponible."
     },
     {
-        "title": "Maintenance",
-        "content": "Le serveur est toujours en développement."
+        "title": "Faction",
+        "content": "Pour créer votre Faction faites /faction ou /f create."
     },
     {
-        "title": "Vêtements",
-        "content": "Change ton skin dans les paramètres !"
+        "title": "Metiers",
+        "content": "4 metiers sont actuellement disponible sur le serveur"
     },
     {
-        "title": "Un bug ?",
-        "content": "Si tu constates un bug, fais-moi en part sur Discord !"
+        "title": "Market",
+        "content": "Vous avez la possibilité de vendre des items en faisant /market"
     },
     {
-        "title": "Youtube",
-        "content": "J'ai une chaîne Youtube que tu peux visiter ! https://www.youtube.com/@kinetsutv5658"
+        "title": "Shop",
+        "content": "Vous manquez de resources . faite /shop"
     },
     {
         "title": "Twitch",
-        "content": "J'ai également une chaîne Twitch que tu peux visiter ! https://www.twitch.tv/kinetsuu_"
+        "content": "Marre de mourrir en minant ? faites /tpw "
     },
     {
         "title": "Launcher en développement",
